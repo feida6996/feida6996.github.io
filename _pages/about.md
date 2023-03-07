@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I work as a Postdoctoral Research Associate at Princeton University/[NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov). During my graduate programs at the [Virginia Institute of Marine Science](https://www.vims.edu), I used observations and numerical models to study how physical and biogeochemical processes affect hypoxia and acidification in coastal and estuarine systems. Specifically, my work involved (1) the impact of different sources of nutrients on Chesapeake hypoxia, (2) the impact of local human activities and global climate change on Chesapeake Bay carbonate system from daily to decadal time scales, and (3) translating the research into usable and actionable information for stakeholders via outreach activities. 
+Currently I work as a Postdoctoral Research Associate at Princeton University/[NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov). During my graduate programs at the [Virginia Institute of Marine Science](https://www.vims.edu), I used observations and numerical models to study how physical and biogeochemical processes affect hypoxia and acidification in coastal and estuarine systems. Specifically, my work involved (1) the impact of different sources of nutrients on Chesapeake hypoxia, (2) the impact of local human activities and global climate change on Chesapeake Bay carbonate system from daily to decadal time scales, and (3) translating the research into usable and actionable information for stakeholders via outreach activities. In the future, I plan to pursue a research and mentoring position in marine environmental science. 
 
 
 # Education
@@ -45,7 +45,9 @@ Fall 2021 Teaching Fellow at William & Mary: designed and taught the undergradua
 
 **Controls on the carbonate system of a coastal plain estuary: rivers, tidal wetlands, and tidal cycles. Estuaries and Coasts. In review.**
 
-  These relatively shallow regions are important sites for the shellfish aquaculture industry as well as oyster restoration, and could be more susceptible to coastal acidification due to terrestrial runoff and climate change. Therefore, I further investigated the impact of extreme river discharge and climate change on calcium carbonate saturation state (Ω) in the YRE. Model results show that year-to-year differences in river discharge produce differences in Ω that are comparable in magnitude to the long-term reductions in Ω projected to occur over the next 50 years. Although a similar high discharge event in the future will have 20–40% less of an impact on Ω, increasing atmospheric CO<sub>2</sub> will decrease baseline Ω. Shallow regions in the lower YRE, where most oyster reefs are located, typically recover faster after a high discharge event compared to regions farther upstream. This study is in preparation for publication, and a link to my dissertation will be available soon.
+  These relatively shallow regions are important sites for the shellfish aquaculture industry as well as oyster restoration, and could be more susceptible to coastal acidification due to terrestrial runoff and climate change. Therefore, I further investigated the impact of extreme river discharge and climate change on calcium carbonate saturation state (Ω) in the YRE. Model results show that year-to-year differences in river discharge produce differences in Ω that are comparable in magnitude to the long-term reductions in Ω projected to occur over the next 50 years. Although a similar high discharge event in the future will have 20–40% less of an impact on Ω, increasing atmospheric CO<sub>2</sub> will decrease baseline Ω. Shallow regions in the lower YRE, where most oyster reefs are located, typically recover faster after a high discharge event compared to regions farther upstream. 
+  
+  **This study is in preparation for publication, and a link to my dissertation will be available soon.**
 
 **_3. Collaborative research_**
  
