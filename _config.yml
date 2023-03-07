@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fei Da"
+  name             : "Fei's Homepage"
   avatar           : "Snow.jpg"
   bio              : "Ocean biogeochemical modeling"
 #  location         : "Princeton, US"
@@ -98,7 +98,7 @@ author:
   foursquare       :
 #  github           : "feida6996"
   google_plus      :
-  keybase          :
+  cv               : "CV FeiDa_Updated_CV_March2023.pdf"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
