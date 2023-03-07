@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I work as a Postdoctoral Research Associate at Princeton University/[NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov). During my graduate programs at the [Virginia Institute of Marine Science](https://www.vims.edu), I used observations and numerical models to study how physical and biogeochemical processes affect hypoxia and acidification in coastal and estuarine systems. Specifically, my work involved (1) the impact of different sources of nutrients on Chesapeake hypoxia, (2) the impact of local human activities and global climate change on Chesapeake Bay carbonate system from daily to decadal time scales, and (3) translating the research into usable and actionable information for stakeholders via outreach activities. In the future, I plan to pursue a research and mentoring position in marine environmental science. 
+Currentl, I work as a Postdoctoral Research Associate at Princeton University/[NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov). During my graduate programs at the [Virginia Institute of Marine Science](https://www.vims.edu), I used observations and numerical models to study how physical and biogeochemical processes affect hypoxia and acidification in coastal and estuarine systems. I am interested in studying (1) interactions between physical and biogeochemical processes within marine ecosystems, (2) impacts of local human activities and global climate change on marine ecosystems, and (3) numerical modeling and data analyses. In the future, I plan to pursue a research and mentoring position in marine environmental science. 
 
 
 # Education
