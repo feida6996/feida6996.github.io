@@ -12,8 +12,8 @@ Currently I work as a Postdoctoral Research Associate at Princeton University/[N
 
 
 # Education
-* Ph.D., Marine Science, Virginia Institute of Marine Science, 2023
-* M.S., Marine Science, Virginia Institute of Marine Science, 2018
+* Ph.D., Marine Science, Virginia Institute of Marine Science|William & Mary, 2023
+* M.S., Marine Science, Virginia Institute of Marine Science|William & Mary, 2018
 * B.S., Oceanography, Nanjing University, 2015
 
 
