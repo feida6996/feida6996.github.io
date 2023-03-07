@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fei Da"
+title                    : "Fei's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fei's Homepage"
+  name             : "Fei Da"
   avatar           : "Snow.jpg"
   bio              : "Ocean biogeochemical modeling"
 #  location         : "Princeton, US"
@@ -98,7 +98,6 @@ author:
   foursquare       :
 #  github           : "feida6996"
   google_plus      :
-  cv               : "CV FeiDa_Updated_CV_March2023.pdf"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
