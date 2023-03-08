@@ -28,7 +28,7 @@ Fall 2021 Teaching Fellow at William & Mary: designed and taught the undergradua
 # Research and Publications
 
 **_1. Response of Chesapeake Bay hypoxia and carbonate system to global and local drivers_**
-  
+  ![Atmospheric N deposition impacts](/images/Fig1.png){: .align-right width="300px"}
   Hypoxia and acidification are two phenomena severely threatening the coastal environment and both are critical for stakeholders whose livelihoods depend on the health of these waters. My M.S. research focused on developing and applying coupled physical-biogeochemical models to investigate the impact of two often-neglected sources of nitrogen—direct atmospheric nitrogen deposition and continental shelf nitrogen fluxes—on Chesapeake Bay hypoxia, and comparing these impacts to those of changing nitrogen concentrations in the rivers. This work is published in Journal of Geophysical Research: Oceans and received the VIMS Best Student Paper Award.
 
 **Impacts of atmospheric nitrogen deposition and coastal nitrogen fluxes on oxygen concentrations in Chesapeake Bay. Da et al. (2018)**
