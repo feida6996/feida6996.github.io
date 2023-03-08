@@ -28,12 +28,14 @@ Fall 2021 Teaching Fellow at William & Mary: designed and taught the undergradua
 # Research and Publications
 
 **_1. Response of Chesapeake Bay hypoxia and carbonate system to global and local drivers_**
-  [![Atmospheric N deposition impacts](/images/Fig1.png){: .align-right width="500px"}](http://doi.org/10.1029/2018JC014009)
+  
   Hypoxia and acidification are two phenomena severely threatening the coastal environment and both are critical for stakeholders whose livelihoods depend on the health of these waters. My M.S. research focused on developing and applying coupled physical-biogeochemical models to investigate the impact of two often-neglected sources of nitrogen—direct atmospheric nitrogen deposition and continental shelf nitrogen fluxes—on Chesapeake Bay hypoxia, and comparing these impacts to those of changing nitrogen concentrations in the rivers. This work is published in Journal of Geophysical Research: Oceans and received the VIMS Best Student Paper Award.
 
+[![Atmospheric N deposition impacts](/images/Fig1.png){: .align-right width="500px"}](http://doi.org/10.1029/2018JC014009)
 **Impacts of atmospheric nitrogen deposition and coastal nitrogen fluxes on oxygen concentrations in Chesapeake Bay. Da et al. (2018)**
 [Link to paper](http://doi.org/10.1029/2018JC014009)
 
+  [![Decadal pH trends](/images/Fig2.png){: .align-right width="500px"}](https://doi.org/10.1029/2021JC017239)
   For my Ph.D. research, I investigated a less studied water quality issue in the Chesapeake Bay: coastal acidification. One of the knowledge gaps I addressed was that the complex trends of Chesapeake Bay acidification over the past three decades are controlled by multiple global- and local-scale drivers. To better understand how these trends differ seasonally and spatially, I combined long-term water quality data analyses and numerical model simulations. This study, published in Journal of Geophysical Research: Oceans, suggests that the spatiotemporal variability of decadal changes in the Chesapeake Bay carbonate system (CO2-system) is much greater than that observed in the open ocean, due to a combination of influences from the watershed, atmosphere and ocean. 
 
 **Mechanisms driving decadal change in the carbonate system of a coastal plain estuary. Da et al. (2021)**.
