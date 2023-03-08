@@ -53,7 +53,7 @@ Fall 2021 Teaching Fellow at William & Mary: designed and taught the undergradua
  
   I have been actively involved in multiple collaborative projects throughout my graduate studies. Efforts regarding biogeochemical model improvements led to two publications, with one studying the impact of future climate change and nutrient reductions on Chesapeake Bay hypoxia, and the other one focusing on the drivers and extent of Chesapeake Bay warming over the past three decades. Additionally, I participated in multiple observational studies on Chesapeake Bay acidification, resulting in three co-authored publications led by researchers from VIMS, CSIRO Oceans and Atmosphere (Australia), and the Pennsylvania State University. Because of my interest in estuarine hydrodynamics, I attended the Estuarine & Coastal Fluid Dynamics Summer School at the University of Washington, and worked in a group to collect field measurements, to analyze numerical model outputs, and to write a report on tides, mixing, and exchange in the San Juan Channel, WA. Specifically, I used model outputs to compute net tidal energy flux, buoyancy flux and dissipation within the San Juan Channel.
 
-**Related publications**
+**Co-authored publications**
 
 Hinson, K., Friedrichs, M.A.M., St-Laurent, P., **Da, F.**, and Najjar, R.G. (2020). Extent and causes of Chesapeake Bay warming. Journal of the American Water Resources Association. [Paper](https://doi.org/10.1111/1752-1688.12916) 
 
