@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I work as a Postdoctoral Research Associate at Princeton University/[NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov). During my graduate programs at the [Virginia Institute of Marine Science](https://www.vims.edu)(VIMS), I used observations and numerical models to study how physical and biogeochemical processes affect hypoxia and acidification in coastal and estuarine systems. I am interested in (1) interactions between physical and biogeochemical processes within marine ecosystems, (2) impacts of local human activities and global climate change on marine ecosystems, and (3) numerical modeling and data analyses. 
+![Lego Chesapeake Bay](/images/Fig0.png){: .align-right width="250px"} 
+Currently, I work as a Postdoctoral Research Associate at Princeton University/[NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov). During my graduate programs at the [Virginia Institute of Marine Science](https://www.vims.edu)(VIMS), I used observations and numerical models to study how physical and biogeochemical processes affect hypoxia and acidification in coastal and estuarine systems. I am interested in (1) interactions between physical and biogeochemical processes within marine ecosystems, (2) impacts of local human activities and global climate change on marine ecosystems, and (3) numerical modeling and data analyses. I love DIY LEGO (e.g., LEGO Chesapeake Bay), and people say that I am a good cook. 
 
 
 # Education
