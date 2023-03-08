@@ -12,8 +12,8 @@ Currently, I work as a Postdoctoral Research Associate at Princeton University/[
 
 
 # Education
-* Ph.D., Marine Science, VIMS, William & Mary, 2023
-* M.S., Marine Science, VIMS, William & Mary, 2018
+* Ph.D., Marine Science, VIMS (William & Mary), 2023
+* M.S., Marine Science, VIMS (William & Mary), 2018
 * B.S., Oceanography, Nanjing University, 2015
 
 
@@ -41,7 +41,7 @@ Fall 2021 Teaching Fellow at William & Mary: designed and taught the undergradua
 
 **_2. Carboante system variability in tidal tributaries of the Chesapeake Bay_**
 
-  Dissolved inorganic carbon (DIC) and total alkalinity (TA) dynamics in tidal tributaries are sensitive to multiple ocean and watershed drivers, including tidal cycles and inputs from wetlands and rivers. However, development and application of numerical models that simultaneously address these drivers are limited. I helped develop a 3-D hydrodynamic-biogeochemical model forced with empirical inputs from tidal wetlands to investigate the carbonate system in the York River Estuary, a small tributary of the Chesapeake Bay. Model results highlight that wetland inputs account for ~1/3 of the total DIC and TA inputs to the estuary. Strong quasi-monthly variability in DIC and TA is driven by tidal cycles, which cause fluctuations between net heterotrophy and net autotrophy. Crbonate chemistry in tidal tributaries experiences complex transformations due to rivers, tidal wetlands, and tides; considering all three drivers are essential for investigating coastal carbon and alkalinity cycling.
+  Dissolved inorganic carbon (DIC) and total alkalinity (TA) dynamics in tidal tributaries are sensitive to multiple ocean and watershed drivers, including tidal cycles and inputs from wetlands and rivers. However, development and application of numerical models that simultaneously address these drivers are limited. I helped develop a 3-D hydrodynamic-biogeochemical model forced with empirical inputs from tidal wetlands to investigate the carbonate system in the York River Estuary, a small tributary of the Chesapeake Bay. Model results highlight that wetland inputs account for ~1/3 of the total DIC and TA inputs to the estuary. Strong quasi-monthly variability in DIC and TA is driven by tidal cycles, which cause fluctuations between net heterotrophy and net autotrophy. Carbonate chemistry in tidal tributaries experiences complex transformations due to rivers, tidal wetlands, and tides; considering all three drivers are essential for investigating coastal carbon and alkalinity cycling.
 
 **Controls on the carbonate system of a coastal plain estuary: rivers, tidal wetlands, and tidal cycles. Estuaries and Coasts. In review.**
 
